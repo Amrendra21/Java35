@@ -6,6 +6,6 @@ public class Student {
     }
     public void show_address()
     {
-        System.out.println("Address is"+address);
+        System.out.println("Address is "+address);
     }
 }
